@@ -1,5 +1,4 @@
 from mainwindow import Window
-
 handle = Window()
 
 handle.title("Music")
